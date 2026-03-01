@@ -28,6 +28,8 @@
 
 ## Getting Started
 
+> 📖 For the complete platform-specific build guide (Windows, macOS, Ubuntu, Docker), see **[BUILD.md](./BUILD.md)**.
+
 ### Prerequisites
 
 - Go 1.22+
